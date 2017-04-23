@@ -1,0 +1,26 @@
+Punto 1(AddMatrix)
+* No se valida que las matrices sean operables (deben tener las mismas dimensiones)
+* La matriz 'result' nunca deja de ser nula antes que el código llegue al punto de la operación.
+* La iteración es correcta. Faltó la instrucción que ejecuta la operación.
+Total: 0.3 / 1.0
+
+Punto 2(MultiplyMatrixByScalar)
+*  La matriz 'result' nunca deja de ser nula antes que el código llegue al punto de la operación.
+* La iteración es correcta. Faltó la instrucción que ejecuta la operación.
+Total: 0.3 / 1.0
+
+Punto 3(MultiplyMatrices)
+* No se valida que las matrices sean operables (deben tener las mismas dimensiones)
+* La matriz 'result' nunca deja de ser nula antes que el código llegue al punto de la operación.
+* La iteración es correcta, aunque incompleta. Faltó la instrucción que ejecuta la operación.
+Total: 0.3 / 2.0
+
+Punto 4(MixMatrix)
+* No se valida que las matrices sean operables (deben tener las mismas dimensiones)
+* La matriz 'result' nunca deja de ser nula antes que el código llegue al punto de la operación.
+* La iteración es correcta. Faltó la instrucción que ejecuta la operación.
+Total: 0.3 / 1.0
+
+Total evaluación: 1.2 / 5.0
+
+NOTA: Literalmente no te fuiste en blanco por un copy-paste, y ese copy-paste era la base para todos los puntos. Si hubieras intentado al menos aplicar las operaciones, habría sido un poco más alta la nota. Ojalá retomaras este código y lo completaras, porque no ibas muy lejos de lo que había que hacer.
